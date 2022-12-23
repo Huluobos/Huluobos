@@ -1,6 +1,6 @@
 ## Huluobos -  WEB前端工程师
 
-#### 张博一 / 男 / 18332725321(Tel/wx) / zbyhuluobos@gmail.com / 华北理工大学(统/本)
+#### 张博一 / 男 / 18332725321(Tel/wx) / zbyhuluobos@gmail.com / 华北理工大学
 
 #### 技术栈
 ###### *Vue2.0| JavaScript | Node.js | Jquery | 小程序 | Es6 | express | Html5| Css3 | element | Git | svn*
@@ -11,8 +11,3 @@
 + 云赛智联：2019-2021 中级前端工程师兼安防集成项目经理.
   视频监控、可视化大屏、手持终端
 + 新东方：2021-至今 高级前端工程师.
-
-<!---
-Huluobos/Huluobos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
