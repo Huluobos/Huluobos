@@ -3,7 +3,7 @@
 #### 张博一 / 男 / 18332725321(Tel/wx) / zbyhuluobos@gmail.com / 华北理工大学
 
 #### 技术栈
-###### *Vue2.0| JavaScript | Node.js | Jquery | 小程序 | Es6 | express | Html5| Css3 | element | Git | svn*
+###### *Vue2.0| JavaScript | Node.js | Jquery | 小程序 | Es6 | ***
 
 #### 工作经历
 + 博思软件：2018-2019 入职为前端实习.2019晋升前端初级. 
